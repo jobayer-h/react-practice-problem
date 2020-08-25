@@ -1,0 +1,27 @@
+.picture-box{
+    height: 100px;
+}
+.picture-box img{
+    height: 100%;
+}
+.main{
+    display: flex;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    margin: 10px;
+}
+.info-box{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: blue;
+    padding: 10px 20px;
+    color: white;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color:lightblue;
+    color: black;
+}
